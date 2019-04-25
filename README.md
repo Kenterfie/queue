@@ -52,7 +52,7 @@ int main(void) {
 }
 ```
 
-## Testing and building examples
+## Testing and building examples 
 
 To run tests run
 
